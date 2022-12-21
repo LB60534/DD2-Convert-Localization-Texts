@@ -13,6 +13,9 @@ DD2仍在抢先体验阶段，因此会有频繁的文本更新。这个工具�
 
 如果想避免反复输入，可以直接把这个exe文件放到上述路径下（和文本txt文件并列）
 
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/115997829/208922372-534f3c7b-b422-4bda-854d-b46bf8755866.png">
+
+
 第二项要求选择输出模式。如果选择1，会统一输出到同一个Output-barks_act_outs.csv文件内；如果选择1，会分别用Output-原文件名.csv的格式输出到多个csv文件内。默认选择模式1.
 
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/115997829/208919292-4204c620-b8a6-4481-8bab-f2c2f48c09c5.png">
